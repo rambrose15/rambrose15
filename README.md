@@ -1,1 +1,1 @@
-Hi, I'm Roger Ambrose. I am currently a first year student at Waterloo University pursuing a degree in Computer Science.
+Hi, I'm Roger Ambrose. I am currently a second-year Computer Science student at the University of Waterloo.
